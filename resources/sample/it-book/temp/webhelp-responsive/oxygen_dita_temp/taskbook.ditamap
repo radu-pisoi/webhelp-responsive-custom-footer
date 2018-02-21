@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /D:\workspace\webhelp-responsive-custom-footer\resources\sample\it-book\temp\webhelp-responsive\oxygen_dita_temp?><?workdir-uri file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/temp/webhelp-responsive/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA BookMap//EN?><?doctype-system http://docs.oasis-open.org/dita/v1.1/OS/dtd/bookmap.dtd?><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="taskbook" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)   " class="- map/map bookmap/bookmap " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="bookmap:1;5:24" cascade="merge">
+    <booktitle class="- topic/title bookmap/booktitle " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="booktitle:1;6:16">
+        <booklibrary class="- topic/ph bookmap/booklibrary " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="booklibrary:1;7:22">Retro Tools</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="mainbooktitle:1;8:24">Product tasks</mainbooktitle>
+        <booktitlealt class="- topic/ph bookmap/booktitlealt " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="booktitlealt:1;9:23">Tasks and what they can do</booktitlealt>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="bookmeta:1;11:15">
+        <author class="- topic/author " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="author:1;12:17">Howe Tuduit</author>
+        
+        <bookid class="- topic/data bookmap/bookid " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="bookid:1;14:17">
+            <isbn class="- topic/data bookmap/isbn " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="isbn:1;15:19">071271271X</isbn>
+            <booknumber class="- topic/data bookmap/booknumber " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="booknumber:1;16:25">SG99-9999-00</booknumber>
+            <maintainer class="- topic/data bookmap/maintainer " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="maintainer:1;17:25">
+                <organization class="- topic/data bookmap/organization " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="organization:1;18:31">Retro Tools</organization>
+                <person class="- topic/data bookmap/person " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="person:1;19:26"/>
+            </maintainer>
+        </bookid>
+        
+        <bookrights class="- topic/data bookmap/bookrights " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="bookrights:1;23:21">            
+            <copyrfirst class="- topic/data bookmap/copyrfirst " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="copyrfirst:1;24:25">
+                <year class="- topic/ph bookmap/year " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="year:1;25:23">2002</year>
+            </copyrfirst>
+            <copyrlast class="- topic/data bookmap/copyrlast " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="copyrlast:1;27:24">
+                <year class="- topic/ph bookmap/year " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="year:2;28:23">2017</year>
+            </copyrlast>
+            <bookowner class="- topic/data bookmap/bookowner " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="bookowner:1;30:24">
+                <organization class="- topic/data bookmap/organization " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="organization:2;31:31">SyncRO Soft SRL</organization>                
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter class="- map/topicref bookmap/frontmatter " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="frontmatter:1;35:18">
+        <booklists class="- map/topicref bookmap/booklists " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="booklists:1;36:20">
+            <toc class="- map/topicref bookmap/toc " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="toc:1;37:19"/>
+        </booklists>
+        <bookabstract href="concepts/taskbook-abstract.dita" class="- map/topicref bookmap/bookabstract " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="bookabstract:1;39:63"/>
+        <notices href="concepts/notices.dita" class="- map/topicref bookmap/notices " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="notices:1;40:47">
+          <topicmeta class="- map/topicmeta " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicmeta:1;41:22">
+            <data name="wh-tile" class="- topic/data " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="data:1;42:34">
+              <data name="hide" value="yes" class="- topic/data " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="data:2;43:46"/>        
+            </data>
+          </topicmeta>
+            <topicref href="topics/trademarks.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:1;46:54"/>
+        </notices>
+        <preface href="topics/task_preface.dita" class="- map/topicref bookmap/preface " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="preface:1;48:50">
+          <topicmeta class="- map/topicmeta " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicmeta:2;49:22">
+            <data name="wh-tile" class="- topic/data " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="data:3;50:34">
+              <data name="hide" value="yes" class="- topic/data " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="data:4;51:46"/>        
+            </data>
+          </topicmeta>
+        </preface>
+    </frontmatter>
+    <chapter href="topics/installing.dita" class="- map/topicref bookmap/chapter " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="chapter:1;56:44">
+        <topicref href="tasks/installstorage.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:2;57:52">
+            <topicref href="tasks/unscrewcover.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:3;58:55"/>
+            <topicref href="tasks/insertdrive.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:4;59:54"/>
+            <topicref href="tasks/replacecover.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:5;60:55"/>
+        </topicref>
+        <topicref href="tasks/installwebserver.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:6;62:54">
+            <topicref href="tasks/closeprograms.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:7;63:56"/>
+            <topicref href="tasks/runsetup.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:8;64:51"/>
+            <topicref href="tasks/restart.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:9;65:50"/>
+        </topicref>
+        <topicref href="tasks/installdb.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:10;67:48"/>
+    </chapter>
+    <chapter href="tasks/configuring.dita" class="- map/topicref bookmap/chapter " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="chapter:2;69:44">
+        <topicref href="tasks/configurestorage.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:11;70:55"/>
+        <topicref href="tasks/configurewebserver.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:12;71:57"/>
+        <topicref href="tasks/configuredatabase.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:13;72:56"/>
+    </chapter>
+    <chapter href="tasks/maintaining.dita" class="- map/topicref bookmap/chapter " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="chapter:3;74:44">
+        <topicref href="tasks/maintainstorage.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:14;75:54"/>
+        <topicref href="tasks/maintainserver.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:15;76:53"/>
+        <topicref href="tasks/maintaindatabase.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:16;77:55"/>
+    </chapter>
+    <chapter href="tasks/troubleshooting.dita" class="- map/topicref bookmap/chapter " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="chapter:4;79:48">
+        <topicref href="tasks/drivetrouble.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:17;80:51"/>
+        <topicref href="tasks/webtrouble.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:18;81:49"/>
+        <topicref href="tasks/databasetrouble.dita" class="- map/topicref " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="topicref:19;82:54"/>
+    </chapter>
+    <appendix href="topics/task_appendix.dita" class="- map/topicref bookmap/appendix " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="appendix:1;84:49"/>
+    <backmatter class="- map/topicref bookmap/backmatter " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="backmatter:1;85:17">
+        <booklists class="- map/topicref bookmap/booklists " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="booklists:2;86:20">
+            
+            <indexlist class="- map/topicref bookmap/indexlist " xtrf="file:/D:/workspace/webhelp-responsive-custom-footer/resources/sample/it-book/taskbook.ditamap" xtrc="indexlist:1;92:25"/>
+        </booklists>
+    </backmatter>
+</bookmap>

@@ -1,0 +1,10 @@
+<ol xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml" class="hidden-print">
+   <li><span class="topicref"><span class="title"><a href="tasks/configuring.html">Configuring</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">You configure components to set up or refine your solution. </p>
+               </span></span></span></li>
+   <li class="active"><span class="topicref"><span class="title"><a href="tasks/configurestorage.html">Configuring hard storage devices</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Most hard disks do not need any configuring. If they do, the instructions are relatively simple.</p>
+               </span></span></span></li>
+</ol>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <uri name="template:xsl/com.oxygenxml.webhelp.xsl.createMainPage" uri="file:/D:/workspace/webhelp-responsive-custom-footer/publishing-template/xslt/customMainPage.xsl"/>
+    <uri name="template:xsl/com.oxygenxml.webhelp.xsl.dita2webhelp" uri="file:/D:/workspace/webhelp-responsive-custom-footer/publishing-template/xslt/customDita2webhelp.xsl"/>
+    <uri name="template:xsl/com.oxygenxml.webhelp.xsl.createSearchPage" uri="file:/D:/workspace/webhelp-responsive-custom-footer/publishing-template/xslt/customSearchPage.xsl"/>
+    <uri name="template:xsl/com.oxygenxml.webhelp.xsl.createIndexTermsPage" uri="file:/D:/workspace/webhelp-responsive-custom-footer/publishing-template/xslt/customIndexTermsPage.xsl"/>
+</catalog>

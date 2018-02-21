@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project basedir="D:\workspace\webhelp-responsive-custom-footer\publishing-template" name="Copy template resources" default="copy-template-resources">
+    <target name="copy-template-resources">
+        <mkdir dir="D:\workspace\webhelp-responsive-custom-footer\resources\sample\it-book/out/webhelp-responsive/oxygen-webhelp/template"/>
+        <copy todir="D:\workspace\webhelp-responsive-custom-footer\resources\sample\it-book/out/webhelp-responsive/oxygen-webhelp/template" overwrite="yes" failonerror="yes" verbose="yes">
+            <fileset dir=".">
+                <include name="oxygen-gray.css"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="resources/**/*"/>
+                <exclude name="resources/**/*.svn"/>
+                <exclude name="resources/**/*.git"/>
+            </fileset>
+        </copy>
+    </target>
+</project>

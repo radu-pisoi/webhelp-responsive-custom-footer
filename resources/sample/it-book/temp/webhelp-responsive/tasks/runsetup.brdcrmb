@@ -1,0 +1,14 @@
+<ol xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml" class="hidden-print">
+   <li><span class="topicref"><span class="title"><a href="topics/installing.html">Installing</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">You install components to make them available for your solution.</p>
+               </span></span></span></li>
+   <li><span class="topicref"><span class="title"><a href="tasks/installwebserver.html">Installing your own Web Server</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Installing a Web Server may sound tricky, but it is quite simple if you follow our instructions.</p>
+               </span></span></span></li>
+   <li class="active"><span class="topicref"><span class="title"><a href="tasks/runsetup.html">Run Setup.exe</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">As with any major program, you will need to run setup in order to install it.</p>
+               </span></span></span></li>
+</ol>

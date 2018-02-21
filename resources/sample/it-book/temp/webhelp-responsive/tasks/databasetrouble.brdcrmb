@@ -1,0 +1,10 @@
+<ol xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml" class="hidden-print">
+   <li><span class="topicref"><span class="title"><a href="tasks/troubleshooting.html">Troubleshooting</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">The troubleshooting tasks explain how to diagnose the cause of and recover from problems.</p>
+               </span></span></span></li>
+   <li class="active"><span class="topicref"><span class="title"><a href="tasks/databasetrouble.html">Troubleshooting a database</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Databases rarely have problems, but this may be helpful if you find some.</p>
+               </span></span></span></li>
+</ol>

@@ -1,0 +1,34 @@
+<ul xmlns="http://www.w3.org/1999/xhtml">
+   <li><span data-tocid="installing-d46e125" class="topicref" data-state="expanded"><span class="wh-expand-btn"></span><span class="title"><a href="topics/installing.html">Installing</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">You install components to make them available for your solution.</p>
+               </span></span></span><ul class="nav nav-list">
+         <li><span data-tocid="installstorage-d46e138" class="topicref" data-state="expanded"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/installstorage.html">Installing hard drives or other storage</a><span class="wh-tooltip">
+                     
+                     <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">A simple guide to installing hard drives.</p>
+                     </span></span></span><ul class="nav nav-list">
+               <li class="active"><span data-tocid="unscrewcover-d46e151" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/unscrewcover.html">Remove the cover of your system</a><span class="wh-tooltip">
+                           
+                           <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">This is a simple task requiring a screwdriver.</p>
+                           </span></span></span></li>
+               <li><span data-tocid="insertdrive-d46e164" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/insertdrive.html">Attach the drive to the system</a><span class="wh-tooltip">
+                           
+                           <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">The drive needs to be attached to power cables and other cables inside the computer.</p>
+                           </span></span></span></li>
+               <li><span data-tocid="replacecover-d46e177" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/replacecover.html">Replace the cover of your system.</a><span class="wh-tooltip">
+                           
+                           <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">The cover needs to be put back on to reduce problems from dust.</p>
+                           </span></span></span></li>
+            </ul>
+         </li>
+         <li><span data-tocid="installwebserver-d46e190" class="topicref" data-state="not-ready"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/installwebserver.html">Installing your own Web Server</a><span class="wh-tooltip">
+                     
+                     <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Installing a Web Server may sound tricky, but it is quite simple if you follow our instructions.</p>
+                     </span></span></span></li>
+         <li><span data-tocid="installdb-d46e242" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/installdb.html">Installing your own Database</a><span class="wh-tooltip">
+                     
+                     <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Installing a Database may sound tricky, but it is quite simple if you follow our instructions.</p>
+                     </span></span></span></li>
+      </ul>
+   </li>
+</ul>

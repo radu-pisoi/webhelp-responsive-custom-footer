@@ -1,0 +1,20 @@
+<ul xmlns="http://www.w3.org/1999/xhtml">
+   <li class="active"><span data-tocid="maintaining-d46e310" class="topicref" data-state="expanded"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/maintaining.html">Maintaining</a><span class="wh-tooltip">
+               
+               <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">You maintain your solution to ensure that all components are operating at maximum efficiency.</p>
+               </span></span></span><ul class="nav nav-list">
+         <li><span data-tocid="maintainstorage-d46e323" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/maintainstorage.html">Maintaining your hard drive</a><span class="wh-tooltip">
+                     
+                     <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Here are a few tips for maintaining your hard drive.</p>
+                     </span></span></span></li>
+         <li><span data-tocid="maintainserver-d46e336" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/maintainserver.html">Maintaining a Web Server</a><span class="wh-tooltip">
+                     
+                     <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Maintaining a web server is really quite easy.</p>
+                     </span></span></span></li>
+         <li><span data-tocid="maintaindatabase-d46e349" class="topicref" data-state="leaf"><span class="wh-expand-btn"></span><span class="title"><a href="tasks/maintaindatabase.html">Maintaining a database</a><span class="wh-tooltip">
+                     
+                     <p xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml" class="shortdesc">Maintaining a database does not take much work.</p>
+                     </span></span></span></li>
+      </ul>
+   </li>
+</ul>
