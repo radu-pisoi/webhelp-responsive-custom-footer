@@ -1,6 +1,6 @@
-# WebHelp Responsive customization plugin to change footer section
+# WebHelp Responsive publishing templates to change footer section
 
-Sample WebHelp Responsive Customization plugin that shows how you can transfer meta information specified in the DITA map to the WebHelp Responsive footer.
+Sample Publishing Template for WebHelp Responsive output that demonstrates how to change the output footer by using XSLT extension points.
 
 In this sample, the footer of the WebHelp Responsive output is modified by adding copyright information extracted from the DITA bookmap or by adding the output generation time.
 

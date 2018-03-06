@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <publishing-template>
     <name>Oxygen Custom Footer</name>
-    <description>Customizing the HTML footer by adding the generation time</description>
-    <tags>
-        <tag type="layout">tiles</tag>
-        <tag type="color">gray</tag>
-        <tag type="color">light</tag>
-    </tags>
+    <description>Customizing the HTML footer by adding the generation time.</description>
     <webhelp>
+        <tags>
+            <tag type="layout">tiles</tag>
+            <tag type="color">gray</tag>
+            <tag type="color">light</tag>
+        </tags>
         <preview-image file="oxygen-gray-tiles.png"/>
         <resources>
             <css file="oxygen-gray.css"/>

@@ -1,8 +1,0 @@
-/* Topic content styles. */
-@import "topic/topic.css?buildId=@@WEBHELP_BUILD_NUMBER@@";
-
-/* Default styles. */
-@import "core/webhelp.css?buildId=@@WEBHELP_BUILD_NUMBER@@";
-
-/* Top Menu and Side TOC components styles. */
-@import "nav-links/nav-links.css?buildId=@@WEBHELP_BUILD_NUMBER@@";
